@@ -34,140 +34,220 @@ In summary, this repository has 20 datasets, with the following statistics:
 
 <a name="110"></a>
 ### 110-PT-BN-KP
+
 **Dateset**: [110-PT-BN-KP](datasets/110-PT-BN-KP.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="500"></a>
 ### 500N-KPCrowd-v1.1
+
 **Dateset**: [500N-KPCrowd-v1.1](datasets/500N-KPCrowd-v1.1.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="cacic"></a>
 ### cacic
+
 **Dateset**: [cacic](datasets/cacic.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="citeulike"></a>
 ### citeulike180
+
 **Dateset**: [citeulike180](datasets/citeulike180.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="fao30"></a>
 ### fao30
+
 **Dateset**: [fao30](datasets/fao30.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="fao780"></a>
 ### fao780
+
 **Dateset**: [fao780](datasets/fao780.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="Inspec"></a>
 ### Inspec
+
 **Dateset**: [Inspec](datasets/Inspec.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="kdd"></a>
 ### kdd
+
 **Dateset**: [kdd](datasets/kdd.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="Krapivin"></a>
 ### Krapivin2009
+
 **Dateset**: [Krapivin2009](datasets/Krapivin2009.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="Nguyen"></a>
 ### Nguyen2007
+
 **Dateset**: [Nguyen2007](datasets/Nguyen2007.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="pak"></a>
 ### pak2018
+
 **Dateset**: [pak2018](datasets/pak2018.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="PubMed"></a>
 ### PubMed
+
 **Dateset**: [PubMed](datasets/PubMed.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="Schutz"></a>
 ### Schutz2008
+
 **Dateset**: [Schutz2008](datasets/Schutz2008.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="SemEval2010"></a>
 ### SemEval2010
+
 **Dateset**: [SemEval2010](datasets/SemEval2010.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="SemEval2017"></a>
 ### SemEval2017
+
 **Dateset**: [SemEval2017](datasets/SemEval2017.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="theses"></a>
 ### theses100
+
 **Dateset**: [theses100](datasets/theses100.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="wicc"></a>
 ### wicc
+
 **Dateset**: [wicc](datasets/wicc.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="wiki20"></a>
 ### wiki20
+
 **Dateset**: [wiki20](datasets/wiki20.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="WKC"></a>
 ### WikiNews
+
 **Dateset**: [WikiNews](datasets/WKC.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
 
 <a name="www"></a>
 ### www
+
 **Dateset**: [www](datasets/www.zip)
+
 **Cite**: [PAPER](DOI)
+
 **Description**:
+
 ---
