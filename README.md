@@ -135,7 +135,7 @@ In summary, this repository has 20 datasets, with the following statistics:
 <a name="KWTweet"></a>
 ### KWTweet
 
-**Dateset**: [KWTweet](datasets/KWTweet.zip)
+**Dateset**: [KWTweet](datasets/KWTweets.zip)
 
 **Cite**: Not public yet! <!-- [Large dataset for keyphrases extraction](http://eprints.biblio.unitn.it/1671/) -->
 
