@@ -13,6 +13,7 @@ In summary, this repository has 20 datasets, with the following statistics:
 | [__500N-KPCrowd-v1.1__](#500)   | EN       | News            | Misc.         | 500   | 24459 (48.92)        | 408.33          | 13.5%          |
 | [__Inspec__](#Inspec)           | EN       | Abstract        | Comp. Science | 2000  | 29230 (14.62)        | 128.20          | 37.7%          |
 | [__Krapivin2009__](#Krapivin)   | EN       | Paper           | Comp. Science | 2304  | 14599 (6.34)         | 8040.74         | 15.3%          |
+| [__KWTweet__](#KWTweet)         | EN       | Tweets          | Misc.         | 7736  | 31759 (4.12)         | 19.79           | 7.87%          |
 | [__Nguyen2007__](#Nguyen)       | EN       | Paper           | Comp. Science | 209   | 2369 (11.33)         | 5201.09         | 17.8%          |
 | [__PubMed__](#PubMed)           | EN       | Paper           | Comp. Science | 500   | 7620 (15.24)         | 3992.78         | 60.2%          |
 | [__Schutz2008__](#Schutz)       | EN       | Paper           | Comp. Science | 1231  | 55013 (44.69)        | 3901.31         | 13.6%          |
@@ -128,6 +129,17 @@ In summary, this repository has 20 datasets, with the following statistics:
 **Cite**: [Large dataset for keyphrases extraction](http://eprints.biblio.unitn.it/1671/)
 
 **Description**: The Krapivin2009 is the biggest dataset in terms of documents, with 2,304 full papers from the Computer Science domain, which were published by ACM in the period ranging from 2003 to 2005. The papers were downloaded from CiteSeerX Autonomous Digital Library and each one has its keywords assigned by the authors and verified by the reviewers.
+
+---
+
+<a name="KWTweet"></a>
+### KWTweet
+
+**Dateset**: [KWTweet](datasets/KWTweet.zip)
+
+**Cite**: Not public yet! <!-- [Large dataset for keyphrases extraction](http://eprints.biblio.unitn.it/1671/) -->
+
+**Description**: KWTweet Dataset is a collection of 7736 tweets from 25 users (from several different domains) published during the period of one complete month (September 1, 2017 to September 30, 2017) which was labelled by 15 annotators. Each tweet has at most 140 characters and 19.79 tokens on average.
 
 ---
 
